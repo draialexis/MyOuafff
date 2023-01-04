@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Common margin value used throughout the app -->
+    <dimen name="activity_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+
+    <dimen name="toolbar_elevation">4dp</dimen>
+    
+    <!-- Common spaces used throughout the app -->
+    <dimen name="large_space">48dp</dimen>
+    <dimen name="medium_space">16dp</dimen>
+    <dimen name="small_space">8dp</dimen>
+    <dimen name="icon_title_space">32dp</dimen>
+</resources>
+

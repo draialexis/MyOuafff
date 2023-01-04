@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="red">#F0514B</color>
+    <color name="red_darker">#C0403C</color>
+
+    <color name="text_black">#212121</color>
+    <color name="text_black_lighter">#727272</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="ic_launcher_background">@color/white</color>
+
+    <!-- Editor colors -->
+    <color name="editorColorPrimary">#2D3640</color>
+    <color name="editorColorPrimaryDark">#394450</color>
+
+    <!-- Cards color -->
+    <color name="colorDevil">@color/red</color>
+    <color name="colorBad">#FFAC40</color>
+    <color name="colorNormal">#FFEE58</color>
+    <color name="colorNice">@color/white</color>
+</resources>
