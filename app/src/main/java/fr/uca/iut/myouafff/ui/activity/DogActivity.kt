@@ -5,6 +5,7 @@ import android.content.Intent
 import android.os.Bundle
 import fr.uca.iut.myouafff.R
 import fr.uca.iut.myouafff.data.NEW_DOG_ID
+import fr.uca.iut.myouafff.ui.fragment.DogFragment
 
 class DogActivity : SimpleFragmentActivity(), DogFragment.OnInteractionListener {
 

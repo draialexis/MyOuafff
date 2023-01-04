@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">MyOuafff</string>
+    <string name="title_add_dog">Add a dog</string>
+    <string name="create_dog_error_dialog_title">Cannot create the dog</string>
+    <string name="create_dog_error_message">Dog\'s name or weight cannot be empty</string>
 </resources>
