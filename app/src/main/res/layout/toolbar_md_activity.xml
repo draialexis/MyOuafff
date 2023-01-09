@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ui.activity.DogListActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar_activity"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        app:elevation="@dimen/toolbar_elevation"
+        android:theme="@style/Theme.MyOuafff.AppBarOverlay"
+        app:popupTheme="@style/Theme.MyOuafff.PopupOverlay"
+        app:titleMarginStart="@dimen/icon_title_space" />
+
+    <include layout="@layout/toolbar_md_activity_content" />
+
+</LinearLayout>

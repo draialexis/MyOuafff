@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="array_gender_options">
+        <item>@string/gender_unknown</item>
+        <item>@string/gender_male</item>
+        <item>@string/gender_female</item>
+    </string-array>
+
+    <array name="aggressiveness_color">
+        <item>@color/colorNice</item>
+        <item>@color/colorNormal</item>
+        <item>@color/colorBad</item>
+        <item>@color/colorDevil</item>
+    </array>
+</resources>

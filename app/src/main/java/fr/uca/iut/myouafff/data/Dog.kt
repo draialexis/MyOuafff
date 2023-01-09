@@ -4,7 +4,7 @@ import androidx.room.Entity
 import androidx.room.PrimaryKey
 import java.util.*
 
-const val NEW_DOG_ID = 1337L
+const val NEW_DOG_ID = 0L
 
 @Entity(tableName = "dogs")
 class Dog(

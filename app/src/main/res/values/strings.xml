@@ -1,6 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">MyOuafff</string>
+    <string name="title_dog_detail">Dog detail</string>
+    <string name="new_dog">New dog</string>
+    <string name="dogs_subtitle_format">Dog %d</string>
+    <string name="dialog_date_title">Admission date of the dog:</string>
+    <string name="dog_deleted">Dog deleted</string>
+    <string name="delete_dog_failed">Failed to delete dog</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="unknown_uri_error">"Unknown URL: "</string>
+    <string name="insertion_uri_error">"Insertion not allowed: "</string>
+    <string name="update_uri_error">"Update not allowed: "</string>
+    <string name="delete_uri_error">"Delete not allowed: "</string>
     <string name="title_add_dog">Add a dog</string>
+
+    <string name="category_overview">Overview</string>
+    <string name="category_gender">Gender</string>
+    <string name="category_measurement">Measurement</string>
+    <string name="category_aggressiveness">Aggressiveness</string>
+    <string name="category_misc">Miscellaneous</string>
+
+    <string name="hint_dog_name">Name</string>
+    <string name="hint_dog_breed">Breed</string>
+    <string name="hint_dog_weight">Weight</string>
+    <string name="unit_dog_weight">kg</string>
+    <string name="hint_dog_owner">Owner</string>
+    <string name="hint_dog_admission_date">Admission date</string>
+
+    <string name="gender_unknown">Unknown</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+
+    <string name="unknown_breed">Unknown breed</string>
+
+    <string name="empty_view_title_text">It\'s a bit lonely here…</string>
+    <string name="empty_view_subtitle_text">Get started by adding a pet</string>
     <string name="create_dog_error_dialog_title">Cannot create the dog</string>
-    <string name="create_dog_error_message">Dog\'s name or weight cannot be empty</string>
+    <string name="create_dog_error_message">Dog\'s name and weight cannot be empty.</string>
+    <string name="new_dog_accessibility_text">A shortcut button to add a new dog</string>
 </resources>

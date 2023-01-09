@@ -104,7 +104,7 @@ class DogFragment : Fragment() {
         val view = inflater.inflate(R.layout.fragment_dog, container, false)
         dogNameEditor = view.findViewById(R.id.dog_name_editor)
         dogBreedEditor = view.findViewById(R.id.dog_breed_editor)
-        genderSpinner = view.findViewById(R.id.dog_breed_editor)
+        genderSpinner = view.findViewById(R.id.gender_spinner)
         dogWeightEditor = view.findViewById(R.id.dog_weight_editor)
         aggressivenessRatingBar = view.findViewById(R.id.aggressiveness_rating_bar)
         dogOwnerText = view.findViewById(R.id.dog_owner_text)

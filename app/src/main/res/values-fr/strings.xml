@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyOuafff</string>
+    <string name="title_dog_detail">Détail du chien</string>
+    <string name="new_dog">Nouveau chien</string>
+    <string name="dogs_subtitle_format">Chien %d</string>
+    <string name="dialog_date_title">Date d\'admission</string>
+    <string name="dog_deleted">Chien supprimé</string>
+    <string name="delete_dog_failed">Impossible de supprimer le chien</string>
+    <string name="action_save">Sauvegarder</string>
+    <string name="action_delete">Supprimer</string>
+    <string name="unknown_uri_error">"URL inconnue : "</string>
+    <string name="insertion_uri_error">"Insertion non autorisée dans : "</string>
+    <string name="update_uri_error">"Mise à jour non autorisée dans : "</string>
+    <string name="delete_uri_error">"Suppression non autorisée dans : "</string>
+    <string name="title_add_dog">Ajouter un chien</string>
+
+    <string name="category_gender">Genre</string>
+    <string name="category_overview">Identité</string>
+    <string name="category_measurement">Mesure</string>
+    <string name="category_aggressiveness">Agressivité</string>
+    <string name="category_misc">Divers</string>
+
+    <string name="hint_dog_name">Nom</string>
+    <string name="hint_dog_breed">Race</string>
+    <string name="hint_dog_weight">Poids</string>
+    <string name="unit_dog_weight">kg</string>
+    <string name="hint_dog_owner">Propriétaire</string>
+    <string name="hint_dog_admission_date">Date d\'admission</string>
+
+    <string name="gender_unknown">Inconnu</string>
+    <string name="gender_male">Mâle</string>
+    <string name="gender_female">Femelle</string>
+
+    <string name="unknown_breed">Race inconnue</string>
+
+    <string name="empty_view_title_text">C\'est un peu vide par ici…</string>
+    <string name="empty_view_subtitle_text">Commençons par ajouter un chien</string>
+    <string name="create_dog_error_dialog_title">Impossible de créer le chien</string>
+    <string name="create_dog_error_message">Le nom du chien et son poids ne peuvent pas être vides.</string>
+    <string name="new_dog_accessibility_text">Un bouton de raccourci pour ajouter un nouveau chien</string>
+</resources>
